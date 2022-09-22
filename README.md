@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @TheodorosMatsoulias
-- 👀 I’m interested in Finance and Data Science
-- 🌱 I’m currently learning Python for Finance
-- 💞️ I’m looking to collaborate on Financial analysis with Data Science
+- 👀 I’m interested in Finance, Banking, Valuation and Data Analysis
 - 📫 How to reach me theodorosmatsoulias@gmail.com
 
 <!---
